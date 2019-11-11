@@ -120,7 +120,7 @@
                                                                             <li><i class="fa fa-map-marker" aria-hidden="true"></i> 360 Harvest St, North Subract, London.
                                                                                 <br /> United States Of Amrica.</li>
                                                                             <li><i class="fa fa-phone" aria-hidden="true"></i> 3695-548555 &#8211; 254-6589856</li>
-                                                                            <li><i class="fa fa-envelope" aria-hidden="true"></i> info@brilliance.com</li>
+                                                                            <li><i class="fa fa-envelope" aria-hidden="true"></i> info@ems.com</li>
                                                                         </ul>
                                                                     </div>
                                                                 </div>
@@ -666,6 +666,7 @@
     </script>
     <script src='wp-content/cache/busting/1/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min-3.6.4.js'></script>
     <script type="text/javascript">
+    document.addEventListener('contextmenu', event => event.preventDefault());
 	document.onkeydown = function(e) {
   if(event.keyCode == 123) {
      return false;
@@ -685,6 +686,5 @@
 }
 </script>
 </body>
-<!-- Mirrored from brilliance.jwsthemeswp.com/home-4/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 10 Nov 2019 07:30:27 GMT -->
 
 </html>

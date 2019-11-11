@@ -1,10 +1,5 @@
 <!DOCTYPE html>
 <html lang="en-US">
-<!-- Mirrored from brilliance.jwsthemeswp.com/home-4/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 10 Nov 2019 07:29:01 GMT -->
-<!-- Added by HTTrack -->
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-<!-- /Added by HTTrack -->
-
 <head>
         <title></title>
     <meta charset="UTF-8"><meta name="viewport" content="width=device-width">
