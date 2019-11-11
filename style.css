@@ -1,0 +1,54 @@
+.slider-image {
+    height: 400px;
+						    background-position: center;
+						    background-repeat: no-repeat;
+						    background-size: 100% 100%; background-image: url('http://brilliance.jwsthemeswp.com/wp-content/uploads/2019/02/h6-sl2.jpg')
+}
+
+
+.sitewidth {
+    border: 1px solid #02c873;
+    overflow: hidden;
+    background: #f3f3f3;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+marquee {
+    float: left;
+    height: 40px;
+    position: absolute;
+    color: #02c873;
+
+}
+.br-title {
+    display: inline-block;
+    padding: 10px 20px;
+    color: #FFF;
+    float: left;
+    background-color: #02c873;
+    left: 0px;
+    top: 0px;
+    height: 40px;
+}
+.sitewidth ul li {
+    float: left;
+    list-style: none;
+    font-weight: 500;
+    font-size: 13px;
+    height: 10px;
+   
+}
+
+.test-headline 
+{
+    width: 828px;
+}
+
+.jws-wrap-logo  {
+    width: 143px;
+    margin-top: 17px;
+}
+
+.form-h4 {
+    margin-bottom: 15px;
+}
